@@ -1,4 +1,4 @@
-## Prueba Parcial 2
+## Prueba Parcial 2 ##
 
 **Instrucciones del examen**
 
@@ -13,6 +13,7 @@ Agregar en el archivo README, capturas de ejecución del programa.
 - Genere la tabla en MYSQL para esta información.
 
 - Elabore un programa que inyecte los datos del archivo CSV a la base de datos. 
+
 
 
 
