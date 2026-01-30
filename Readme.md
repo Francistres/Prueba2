@@ -17,6 +17,8 @@ Agregar en el archivo README, capturas de ejecución del programa.
 # Resolucion.
 
 Primero hice uso de las librerias vistas y usadas en las clases de Programacion Funcianol y Reactiva.
+
+
 <img width="1086" height="783" alt="image" src="https://github.com/user-attachments/assets/3485019d-db69-44fe-abaa-102128f30c46" />
 
 
